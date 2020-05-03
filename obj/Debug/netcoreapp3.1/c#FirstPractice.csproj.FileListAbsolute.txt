@@ -1,0 +1,12 @@
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/bin/Debug/netcoreapp3.1/c#FirstPractice.deps.json
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/bin/Debug/netcoreapp3.1/c#FirstPractice.runtimeconfig.json
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/bin/Debug/netcoreapp3.1/c#FirstPractice.runtimeconfig.dev.json
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/bin/Debug/netcoreapp3.1/c#FirstPractice.dll
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/bin/Debug/netcoreapp3.1/c#FirstPractice.pdb
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/obj/Debug/netcoreapp3.1/c#FirstPractice.csprojAssemblyReference.cache
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/obj/Debug/netcoreapp3.1/c#FirstPractice.csproj.CoreCompileInputs.cache
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/obj/Debug/netcoreapp3.1/c#FirstPractice.AssemblyInfoInputs.cache
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/obj/Debug/netcoreapp3.1/c#FirstPractice.AssemblyInfo.cs
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/obj/Debug/netcoreapp3.1/c#FirstPractice.dll
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/obj/Debug/netcoreapp3.1/c#FirstPractice.pdb
+/Users/prestoncarroll/Desktop/projects/c#FirstPractice/obj/Debug/netcoreapp3.1/c#FirstPractice.genruntimeconfig.cache
