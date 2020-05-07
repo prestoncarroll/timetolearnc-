@@ -7,17 +7,19 @@ namespace HelloWorld
         static void Main(string[] args)
         {
 
-
-
             //-------------------------------------------METHODS
-            SayHi();
+            SayHi("mike", 22);
+            SayHi("tim", 14);
+            SayHi("john", 55);
             Console.ReadLine();
         }
 
 
-        static void SayHi()
+        static void SayHi(string name , int age)
         {
-            Console.WriteLine("hello user");
+            Console.WriteLine("hello " + name + " you are " + age);
+
+
 
         }
 
